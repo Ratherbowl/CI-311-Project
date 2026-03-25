@@ -5,15 +5,15 @@ This `README.md` is designed for a professional, academic GitHub repository. It 
 
 # SEED Labs: Firewall Exploration Project
 **Course:** Cybersecurity Lab  
-[cite_start]**Environment:** SEED Ubuntu 20.04 VM / Docker Containers [cite: 23, 27]
+[cite_start]**Environment:** SEED Ubuntu 20.04 VM / Docker Containers
 
 ## 🚀 Overview
-This project explores the implementation and configuration of both stateless and stateful firewalls. [cite_start]We utilize **Linux Kernel Modules (LKM)** with **Netfilter** for low-level packet filtering and **iptables** for high-level network policy management. [cite: 8, 86, 290]
+This project explores the implementation and configuration of both stateless and stateful firewalls. [cite_start]We utilize **Linux Kernel Modules (LKM)** with **Netfilter** for low-level packet filtering and **iptables** for high-level network policy management.
 
 ---
 
 ## 🛠 Lab Setup
-[cite_start]To ensure the network topology is consistent across all team members, use the following commands within the SEED VM: [cite: 23, 44]
+[cite_start]To ensure the network topology is consistent across all team members, use the following commands within the SEED VM:
 
 1.  **Clone the Repo:** `git clone <repo-url>`
 2.  **Initialize Containers:** Navigate to the `Labsetup` directory and run:
