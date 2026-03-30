@@ -8,6 +8,7 @@
 #include <linux/icmp.h>
 #include <linux/in.h>
 
+MODULE_LICENSE("GPL");
 
 static struct nf_hook_ops nfho_in;
 static struct nf_hook_ops nfho_out;
